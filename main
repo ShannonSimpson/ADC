@@ -19,7 +19,7 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 // trick method to convert 8 bit binary to 3 BCD digits for display
-module Lab9(data, clk, AN, SSEG);
+module ADC(data, clk, AN, SSEG);
 	input [7:0] data;
 	input clk;
 	output reg [3:0] AN;
