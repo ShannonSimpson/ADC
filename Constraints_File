@@ -1,0 +1,26 @@
+NET "AN<0>" LOC = "D14";
+NET "AN<1>" LOC = "G14";
+NET "AN<2>" LOC = "F14";
+NET "AN<3>" LOC = "E13";
+
+//LED SEGMENTS
+NET "SSEG<0>" LOC = "E14";
+NET "SSEG<1>" LOC = "G13";
+NET "SSEG<2>" LOC = "N15";
+NET "SSEG<3>" LOC = "P15";
+NET "SSEG<4>" LOC = "R16";
+NET "SSEG<5>" LOC = "F13";
+NET "SSEG<6>" LOC = "N16";
+
+//CLOCK
+NET "clk" LOC = "T9";
+
+//DATA
+NET "data<0>" LOC = "D5";
+NET "data<1>" LOC = "D6";
+NET "data<2>" LOC = "E7";
+NET "data<3>" LOC = "D7";
+NET "data<4>" LOC = "D8";
+NET "data<5>" LOC = "D10";
+NET "data<6>" LOC = "B4";
+NET "data<7>" LOC = "B5";
